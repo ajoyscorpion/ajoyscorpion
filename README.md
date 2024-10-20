@@ -1,5 +1,5 @@
 ### Hi there 👋
-Full Stack Developer | Tech Enthusiast | Junior Data Scientist
+Full Stack Developer | Tech Enthusiast
 
 👋 Hello, fellow developers! I'm Paulson Mathew, a passionate full stack developer with a keen interest in crafting robust and user-friendly applications. I thrive on solving complex problems and enjoy the process of turning ideas into reality.
 
